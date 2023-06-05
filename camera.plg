@@ -1,0 +1,27 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: camera - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\arabl\AppData\Local\Temp\RSP86CE.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Release/camera.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"D:\new prog\camera\camera.cpp"
+]
+Creating command line "cl.exe @C:\Users\arabl\AppData\Local\Temp\RSP86CE.tmp" 
+Creating command line "link.exe Setupapi.lib advapi32.lib /nologo /subsystem:windows /incremental:no /pdb:"Release/camera.pdb" /machine:I386 /out:"Release/camera.exe"  ".\Release\camera.obj" ".\Release\cameraDlg.obj" ".\Release\StdAfx.obj" ".\Release\camera.res" "
+<h3>Output Window</h3>
+Compiling...
+camera.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+camera.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
